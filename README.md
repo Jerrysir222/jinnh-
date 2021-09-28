@@ -10,7 +10,7 @@
 </p>
 </div>
 <p align="center">
-  Project created by <a href="https://github.com/Jerrysir222">Mikhaiel</a> to make it public
+  Project created by <a href="https://github.com/Jerrysir222">Jerry Sir</a> to make it public
     <br>
        © Reserved 
     <br>
