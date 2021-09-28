@@ -6,11 +6,11 @@
 <a href="#"><img title="Miya mwol" src="https://img.shields.io/badge/Jimbrootan%F0%9F%A7%9E%E2%80%8D%E2%99%82%EF%B8%8F-blueviolet?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Mikhaiel"><img title="Author" src="https://img.shields.io/badge/Author-Mikhaiel-Offical/Jimbrootan?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jerrysir222"><img title="Author" src="https://img.shields.io/badge/Author-Jerry-Offical/Miya?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-  Project created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it public
+  Project created by <a href="https://github.com/Jerrysir222">Mikhaiel</a> to make it public
     <br>
        © Reserved 
     <br>
