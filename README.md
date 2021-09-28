@@ -3,7 +3,7 @@
 
    <p align="center">
 
-<a href="#"><img title="Miya mwol" src="https://img.shields.io/badge/Jimbrootan%F0%9F%A7%9E%E2%80%8D%E2%99%82%EF%B8%8F-blueviolet?&style=for-the-badge"></a>
+<a href="#"><img title="Miya mwol"
 </p>
   <p align="center">
 <a href="https://github.com/Jerrysir222"><img title="Author" src="https://img.shields.io/badge/Author-Jerry-Offical/Miya?color=red&style=for-the-badge&logo=whatsapp"></a>
